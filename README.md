@@ -32,3 +32,11 @@ This is a stylish, feature-rich **Scientific Calculator** built using **Python T
 
 ```bash
 python scientific_calculator.py
+📁 ScientificCalculator
+├── scientific_calculator.py
+├── README.md
+└── screenshot.png  # Optional: Include if you want a preview
+🧑‍💻 Author
+Aditya Kumar Jha
+
+Feel free to contribute or fork this project to improve or expand the calculator’s features.
